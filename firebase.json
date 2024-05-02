@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "CarJourney/y",
+    "public": "CarJourney",
     "ignore": [
       "firebase.json",
       "**/.*",
